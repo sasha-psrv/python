@@ -1,0 +1,15 @@
+C:\Users\pisar\git\bin\Debug\net6.0\git.exe
+C:\Users\pisar\git\bin\Debug\net6.0\git.deps.json
+C:\Users\pisar\git\bin\Debug\net6.0\git.runtimeconfig.json
+C:\Users\pisar\git\bin\Debug\net6.0\git.dll
+C:\Users\pisar\git\bin\Debug\net6.0\git.pdb
+C:\Users\pisar\git\obj\Debug\net6.0\git.csproj.AssemblyReference.cache
+C:\Users\pisar\git\obj\Debug\net6.0\git.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pisar\git\obj\Debug\net6.0\git.AssemblyInfoInputs.cache
+C:\Users\pisar\git\obj\Debug\net6.0\git.AssemblyInfo.cs
+C:\Users\pisar\git\obj\Debug\net6.0\git.csproj.CoreCompileInputs.cache
+C:\Users\pisar\git\obj\Debug\net6.0\git.dll
+C:\Users\pisar\git\obj\Debug\net6.0\refint\git.dll
+C:\Users\pisar\git\obj\Debug\net6.0\git.pdb
+C:\Users\pisar\git\obj\Debug\net6.0\git.genruntimeconfig.cache
+C:\Users\pisar\git\obj\Debug\net6.0\ref\git.dll
