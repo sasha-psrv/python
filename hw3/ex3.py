@@ -6,6 +6,28 @@
 # меня зовут Анатолий
 
 def zadacha3():
+    bot = {'привет':  'здраствуйте!',
+           'как дела?': 'хорошо, как у вас?',
+           'хорошо': 'отлично!',
+           'пока': 'досвидания!)'}
+    flag = True
+    while flag:
+        phrase = input('Я: ').lower()
+        if phrase in bot.keys():
+            print(f'Бот: {bot[phrase]}')
+        else:    
+            print(f'Бот: извинити, я не понимаю')
+            print(f'Бот: хотите обучить меня? (ДА/НЕТ)')
+            answer = input('Я: ').lower()
+            if answer == 'ДА':
+                print(f'Бот: Вы сказали "{phrase}"')
+                print(f'Бот: Как бы вы на это ответили?')
+                answer = input('Я: ').lower()
+                bot[phrase] = answer
+            else:
+                print(f'Бот: тогда в следующий раз)')
+        if phrase == "пока":
+            flag = False     
+
 zadacha3()
 
-# словарь 2:15
