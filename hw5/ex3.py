@@ -5,3 +5,16 @@
 # совпадают
 # Список уникальных элементов
 # [1, 4, 2, 3, 6, 7]
+
+
+import random
+
+number = [random.randint(1,10) for _ in range(8)]
+print(number)
+
+lenght = len(number)-len(set(number))
+numbers = list(set(number))
+print(numbers)
+print(f" {lenght} элемента")
+
+
